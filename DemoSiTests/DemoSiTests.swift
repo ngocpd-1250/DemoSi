@@ -30,5 +30,9 @@ class DemoSiTests: XCTestCase {
             // Put the code you want to measure the time of here.
         }
     }
-
+    
+    
+    func test_simple() {
+        XCTAssert(3 == 3)
+    }
 }
