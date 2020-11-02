@@ -33,6 +33,7 @@ class DemoSiTests: XCTestCase {
     
     
     func test_simple() {
-        XCTAssert(3 == 3)
+        let a = 3
+        XCTAssert(a == 3)
     }
 }

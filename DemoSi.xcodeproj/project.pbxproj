@@ -364,8 +364,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"DemoSi/Preview Content\"";
+				DEVELOPMENT_TEAM = 233ABDFMTB;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = DemoSi/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -383,8 +385,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"DemoSi/Preview Content\"";
+				DEVELOPMENT_TEAM = 233ABDFMTB;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = DemoSi/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
